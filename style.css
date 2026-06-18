@@ -1,0 +1,255 @@
+/* ============================================================
+   Moon–Venus Orientation  —  style.css
+   Dark sky theme
+   ============================================================ */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg:        #0d1117;
+  --surface:   #161b22;
+  --border:    #30363d;
+  --text:      #e6edf3;
+  --muted:     #8b949e;
+  --accent:    #58a6ff;
+  --gold:      #f0c040;
+  --cyan:      #56d4e0;
+  --green:     #3fb950;
+  --red:       #f85149;
+  --font:      'Segoe UI', system-ui, sans-serif;
+  --mono:      'Cascadia Code', 'Fira Code', monospace;
+}
+
+html, body {
+  background: var(--bg);
+  color:      var(--text);
+  font-family: var(--font);
+  font-size:   16px;
+  line-height: 1.5;
+  min-height:  100vh;
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+header {
+  text-align: center;
+  padding: 2rem 1rem 1rem;
+  border-bottom: 1px solid var(--border);
+}
+
+header h1 {
+  font-size: clamp(1.4rem, 4vw, 2rem);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.subtitle {
+  margin-top: 0.4rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* ── Main layout ──────────────────────────────────────────── */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 2rem;
+}
+
+/* ── Controls ─────────────────────────────────────────────── */
+.controls {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+}
+
+.control-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  min-width: 200px;
+}
+
+.control-group label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+select {
+  background:  var(--surface);
+  color:       var(--text);
+  border:      1px solid var(--border);
+  border-radius: 6px;
+  padding:     0.45rem 0.75rem;
+  font-size:   0.95rem;
+  cursor:      pointer;
+  appearance:  none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238b949e' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: 2.25rem;
+  transition: border-color 0.15s;
+}
+
+select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* ── Time slider ──────────────────────────────────────────── */
+.slider-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.slider-section label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--muted);
+}
+
+input[type="range"] {
+  width: min(600px, 90vw);
+  accent-color: var(--accent);
+  cursor: pointer;
+  height: 6px;
+}
+
+.time-info {
+  font-family: var(--mono);
+  font-size: 0.85rem;
+  color: var(--text);
+  text-align: center;
+  line-height: 1.6;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  min-width: min(480px, 90vw);
+}
+
+/* ── Plotly container ─────────────────────────────────────── */
+#plot {
+  width: 100%;
+  min-height: 460px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+/* ── Data cards ───────────────────────────────────────────── */
+.data-cards {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1.5rem;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  min-width: 240px;
+  max-width: 400px;
+  flex: 1;
+}
+
+.card h3 {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.card table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+}
+
+.card td {
+  padding: 0.2rem 0;
+  vertical-align: top;
+}
+
+.card td:first-child {
+  color: var(--muted);
+  padding-right: 1rem;
+  white-space: nowrap;
+}
+
+.card td:last-child {
+  font-family: var(--mono);
+  text-align: right;
+}
+
+.above  { color: var(--green); font-weight: 600; }
+.below  { color: var(--red);   font-weight: 600; }
+.illum  { color: var(--gold); }
+
+/* ── Too-far overlay ──────────────────────────────────────── */
+.too-far-msg {
+  color: var(--muted);
+  font-size: 1rem;
+  text-align: center;
+  padding: 3rem 1rem;
+}
+
+/* ── Footer ───────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 1.5rem 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+footer a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* ── Responsive ───────────────────────────────────────────── */
+@media (max-width: 700px) {
+  .controls {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .control-group {
+    width: 100%;
+    max-width: 320px;
+  }
+
+  .data-cards {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .card {
+    width: 100%;
+    max-width: 100%;
+  }
+}

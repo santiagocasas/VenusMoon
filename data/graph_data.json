@@ -1,0 +1,2472 @@
+{
+  "locations": [
+    {
+      "id": "heidelberg",
+      "name": "Heidelberg, Germany",
+      "lat": 49.3988,
+      "lon": 8.6724,
+      "timezone": "Europe/Berlin",
+      "samples": [
+        {
+          "utc": "2026-06-17T18:00:00Z",
+          "local_time": "2026-06-17 20:00 CEST",
+          "moon": {
+            "alt": 36.0383,
+            "az": 260.5195
+          },
+          "venus": {
+            "alt": 37.1884,
+            "az": 258.771
+          },
+          "sun": {
+            "alt": 12.352,
+            "az": 291.6551
+          },
+          "relative": {
+            "venus_dx": -1.4139,
+            "venus_dy": 1.1501,
+            "venus_angle_from_up": -50.87,
+            "sun_dx": 25.177,
+            "sun_dy": -23.6863,
+            "sun_angle_from_up": 133.25,
+            "moon_illumination": 0.1017
+          }
+        },
+        {
+          "utc": "2026-06-17T18:10:00Z",
+          "local_time": "2026-06-17 20:10 CEST",
+          "moon": {
+            "alt": 34.4529,
+            "az": 262.4851
+          },
+          "venus": {
+            "alt": 35.5865,
+            "az": 260.8781
+          },
+          "sun": {
+            "alt": 10.8497,
+            "az": 293.4252
+          },
+          "relative": {
+            "venus_dx": -1.3251,
+            "venus_dy": 1.1336,
+            "venus_angle_from_up": -49.45,
+            "sun_dx": 25.5129,
+            "sun_dy": -23.6032,
+            "sun_angle_from_up": 132.77,
+            "moon_illumination": 0.1022
+          }
+        },
+        {
+          "utc": "2026-06-17T18:20:00Z",
+          "local_time": "2026-06-17 20:20 CEST",
+          "moon": {
+            "alt": 32.8612,
+            "az": 264.4055
+          },
+          "venus": {
+            "alt": 33.9753,
+            "az": 262.9326
+          },
+          "sun": {
+            "alt": 9.3675,
+            "az": 295.2039
+          },
+          "relative": {
+            "venus_dx": -1.2372,
+            "venus_dy": 1.1142,
+            "venus_angle_from_up": -48.0,
+            "sun_dx": 25.8702,
+            "sun_dy": -23.4937,
+            "sun_angle_from_up": 132.24,
+            "moon_illumination": 0.1027
+          }
+        },
+        {
+          "utc": "2026-06-17T18:30:00Z",
+          "local_time": "2026-06-17 20:30 CEST",
+          "moon": {
+            "alt": 31.2649,
+            "az": 266.2858
+          },
+          "venus": {
+            "alt": 32.357,
+            "az": 264.9403
+          },
+          "sun": {
+            "alt": 7.9068,
+            "az": 296.9932
+          },
+          "relative": {
+            "venus_dx": -1.1501,
+            "venus_dy": 1.0921,
+            "venus_angle_from_up": -46.48,
+            "sun_dx": 26.248,
+            "sun_dy": -23.3582,
+            "sun_angle_from_up": 131.67,
+            "moon_illumination": 0.1032
+          }
+        },
+        {
+          "utc": "2026-06-17T18:40:00Z",
+          "local_time": "2026-06-17 20:40 CEST",
+          "moon": {
+            "alt": 29.666,
+            "az": 268.1307
+          },
+          "venus": {
+            "alt": 30.7337,
+            "az": 266.9068
+          },
+          "sun": {
+            "alt": 6.4692,
+            "az": 298.7953
+          },
+          "relative": {
+            "venus_dx": -1.0635,
+            "venus_dy": 1.0677,
+            "venus_angle_from_up": -44.89,
+            "sun_dx": 26.6452,
+            "sun_dy": -23.1968,
+            "sun_angle_from_up": 131.04,
+            "moon_illumination": 0.1037
+          }
+        },
+        {
+          "utc": "2026-06-17T18:50:00Z",
+          "local_time": "2026-06-17 20:50 CEST",
+          "moon": {
+            "alt": 28.066,
+            "az": 269.9446
+          },
+          "venus": {
+            "alt": 29.1074,
+            "az": 268.8371
+          },
+          "sun": {
+            "alt": 5.0564,
+            "az": 300.612
+          },
+          "relative": {
+            "venus_dx": -0.9773,
+            "venus_dy": 1.0414,
+            "venus_angle_from_up": -43.18,
+            "sun_dx": 27.061,
+            "sun_dy": -23.0096,
+            "sun_angle_from_up": 130.37,
+            "moon_illumination": 0.1042
+          }
+        },
+        {
+          "utc": "2026-06-17T19:00:00Z",
+          "local_time": "2026-06-17 21:00 CEST",
+          "moon": {
+            "alt": 26.4666,
+            "az": 271.7317
+          },
+          "venus": {
+            "alt": 27.48,
+            "az": 270.7359
+          },
+          "sun": {
+            "alt": 3.67,
+            "az": 302.4451
+          },
+          "relative": {
+            "venus_dx": -0.8915,
+            "venus_dy": 1.0134,
+            "venus_angle_from_up": -41.34,
+            "sun_dx": 27.4944,
+            "sun_dy": -22.7967,
+            "sun_angle_from_up": 129.66,
+            "moon_illumination": 0.1048
+          }
+        },
+        {
+          "utc": "2026-06-17T19:10:00Z",
+          "local_time": "2026-06-17 21:10 CEST",
+          "moon": {
+            "alt": 24.8693,
+            "az": 273.4958
+          },
+          "venus": {
+            "alt": 25.8533,
+            "az": 272.6076
+          },
+          "sun": {
+            "alt": 2.3116,
+            "az": 304.2964
+          },
+          "relative": {
+            "venus_dx": -0.8058,
+            "venus_dy": 0.984,
+            "venus_angle_from_up": -39.32,
+            "sun_dx": 27.9445,
+            "sun_dy": -22.5577,
+            "sun_angle_from_up": 128.91,
+            "moon_illumination": 0.1053
+          }
+        },
+        {
+          "utc": "2026-06-17T19:20:00Z",
+          "local_time": "2026-06-17 21:20 CEST",
+          "moon": {
+            "alt": 23.2755,
+            "az": 275.2404
+          },
+          "venus": {
+            "alt": 24.229,
+            "az": 274.4564
+          },
+          "sun": {
+            "alt": 0.983,
+            "az": 306.1675
+          },
+          "relative": {
+            "venus_dx": -0.7202,
+            "venus_dy": 0.9535,
+            "venus_angle_from_up": -37.07,
+            "sun_dx": 28.4101,
+            "sun_dy": -22.2925,
+            "sun_angle_from_up": 128.12,
+            "moon_illumination": 0.1058
+          }
+        },
+        {
+          "utc": "2026-06-17T19:30:00Z",
+          "local_time": "2026-06-17 21:30 CEST",
+          "moon": {
+            "alt": 21.6866,
+            "az": 276.9689
+          },
+          "venus": {
+            "alt": 22.6087,
+            "az": 276.2861
+          },
+          "sun": {
+            "alt": -0.314,
+            "az": 308.0598
+          },
+          "relative": {
+            "venus_dx": -0.6345,
+            "venus_dy": 0.9221,
+            "venus_angle_from_up": -34.53,
+            "sun_dx": 28.8902,
+            "sun_dy": -22.0006,
+            "sun_angle_from_up": 127.29,
+            "moon_illumination": 0.1063
+          }
+        },
+        {
+          "utc": "2026-06-17T19:40:00Z",
+          "local_time": "2026-06-17 21:40 CEST",
+          "moon": {
+            "alt": 20.104,
+            "az": 278.6845
+          },
+          "venus": {
+            "alt": 20.9941,
+            "az": 278.1003
+          },
+          "sun": {
+            "alt": -1.5778,
+            "az": 309.9747
+          },
+          "relative": {
+            "venus_dx": -0.5486,
+            "venus_dy": 0.8901,
+            "venus_angle_from_up": -31.65,
+            "sun_dx": 29.3838,
+            "sun_dy": -21.6818,
+            "sun_angle_from_up": 126.42,
+            "moon_illumination": 0.1068
+          }
+        },
+        {
+          "utc": "2026-06-17T19:50:00Z",
+          "local_time": "2026-06-17 21:50 CEST",
+          "moon": {
+            "alt": 18.5291,
+            "az": 280.39
+          },
+          "venus": {
+            "alt": 19.3867,
+            "az": 279.9024
+          },
+          "sun": {
+            "alt": -2.8063,
+            "az": 311.9136
+          },
+          "relative": {
+            "venus_dx": -0.4624,
+            "venus_dy": 0.8576,
+            "venus_angle_from_up": -28.33,
+            "sun_dx": 29.8894,
+            "sun_dy": -21.3354,
+            "sun_angle_from_up": 125.52,
+            "moon_illumination": 0.1073
+          }
+        },
+        {
+          "utc": "2026-06-17T20:00:00Z",
+          "local_time": "2026-06-17 22:00 CEST",
+          "moon": {
+            "alt": 16.963,
+            "az": 282.0885
+          },
+          "venus": {
+            "alt": 17.7881,
+            "az": 281.6956
+          },
+          "sun": {
+            "alt": -3.9979,
+            "az": 313.8774
+          },
+          "relative": {
+            "venus_dx": -0.3758,
+            "venus_dy": 0.825,
+            "venus_angle_from_up": -24.49,
+            "sun_dx": 30.4059,
+            "sun_dy": -20.9609,
+            "sun_angle_from_up": 124.58,
+            "moon_illumination": 0.1078
+          }
+        },
+        {
+          "utc": "2026-06-17T20:10:00Z",
+          "local_time": "2026-06-17 22:10 CEST",
+          "moon": {
+            "alt": 15.4072,
+            "az": 283.7824
+          },
+          "venus": {
+            "alt": 16.1997,
+            "az": 283.483
+          },
+          "sun": {
+            "alt": -5.1506,
+            "az": 315.8673
+          },
+          "relative": {
+            "venus_dx": -0.2887,
+            "venus_dy": 0.7925,
+            "venus_angle_from_up": -20.01,
+            "sun_dx": 30.9318,
+            "sun_dy": -20.5578,
+            "sun_angle_from_up": 123.61,
+            "moon_illumination": 0.1083
+          }
+        },
+        {
+          "utc": "2026-06-17T20:20:00Z",
+          "local_time": "2026-06-17 22:20 CEST",
+          "moon": {
+            "alt": 13.863,
+            "az": 285.4744
+          },
+          "venus": {
+            "alt": 14.6232,
+            "az": 285.2674
+          },
+          "sun": {
+            "alt": -6.2624,
+            "az": 317.8839
+          },
+          "relative": {
+            "venus_dx": -0.201,
+            "venus_dy": 0.7602,
+            "venus_angle_from_up": -14.81,
+            "sun_dx": 31.4655,
+            "sun_dy": -20.1254,
+            "sun_angle_from_up": 122.6,
+            "moon_illumination": 0.1088
+          }
+        },
+        {
+          "utc": "2026-06-17T20:30:00Z",
+          "local_time": "2026-06-17 22:30 CEST",
+          "moon": {
+            "alt": 12.3316,
+            "az": 287.1669
+          },
+          "venus": {
+            "alt": 13.06,
+            "az": 287.0516
+          },
+          "sun": {
+            "alt": -7.3315,
+            "az": 319.9281
+          },
+          "relative": {
+            "venus_dx": -0.1126,
+            "venus_dy": 0.7284,
+            "venus_angle_from_up": -8.79,
+            "sun_dx": 32.0053,
+            "sun_dy": -19.6631,
+            "sun_angle_from_up": 121.57,
+            "moon_illumination": 0.1093
+          }
+        },
+        {
+          "utc": "2026-06-17T20:40:00Z",
+          "local_time": "2026-06-17 22:40 CEST",
+          "moon": {
+            "alt": 10.8143,
+            "az": 288.8622
+          },
+          "venus": {
+            "alt": 11.5116,
+            "az": 288.8383
+          },
+          "sun": {
+            "alt": -8.3559,
+            "az": 322.0002
+          },
+          "relative": {
+            "venus_dx": -0.0235,
+            "venus_dy": 0.6973,
+            "venus_angle_from_up": -1.93,
+            "sun_dx": 32.5494,
+            "sun_dy": -19.1702,
+            "sun_angle_from_up": 120.5,
+            "moon_illumination": 0.1098
+          }
+        },
+        {
+          "utc": "2026-06-17T20:50:00Z",
+          "local_time": "2026-06-17 22:50 CEST",
+          "moon": {
+            "alt": 9.3125,
+            "az": 290.5626
+          },
+          "venus": {
+            "alt": 9.9796,
+            "az": 290.6299
+          },
+          "sun": {
+            "alt": -9.3336,
+            "az": 324.1005
+          },
+          "relative": {
+            "venus_dx": 0.0664,
+            "venus_dy": 0.6671,
+            "venus_angle_from_up": 5.68,
+            "sun_dx": 33.0958,
+            "sun_dy": -18.646,
+            "sun_angle_from_up": 119.4,
+            "moon_illumination": 0.1104
+          }
+        },
+        {
+          "utc": "2026-06-17T21:00:00Z",
+          "local_time": "2026-06-17 23:00 CEST",
+          "moon": {
+            "alt": 7.8274,
+            "az": 292.2702
+          },
+          "venus": {
+            "alt": 8.4655,
+            "az": 292.4288
+          },
+          "sun": {
+            "alt": -10.2626,
+            "az": 326.229
+          },
+          "relative": {
+            "venus_dx": 0.1571,
+            "venus_dy": 0.6381,
+            "venus_angle_from_up": 13.83,
+            "sun_dx": 33.6425,
+            "sun_dy": -18.09,
+            "sun_angle_from_up": 118.27,
+            "moon_illumination": 0.1109
+          }
+        },
+        {
+          "utc": "2026-06-17T21:10:00Z",
+          "local_time": "2026-06-17 23:10 CEST",
+          "moon": {
+            "alt": 6.3604,
+            "az": 293.987
+          },
+          "venus": {
+            "alt": 6.971,
+            "az": 294.2373
+          },
+          "sun": {
+            "alt": -11.1411,
+            "az": 328.3858
+          },
+          "relative": {
+            "venus_dx": 0.2488,
+            "venus_dy": 0.6106,
+            "venus_angle_from_up": 22.17,
+            "sun_dx": 34.187,
+            "sun_dy": -17.5016,
+            "sun_angle_from_up": 117.11,
+            "moon_illumination": 0.1114
+          }
+        },
+        {
+          "utc": "2026-06-17T21:20:00Z",
+          "local_time": "2026-06-17 23:20 CEST",
+          "moon": {
+            "alt": 4.913,
+            "az": 295.7151
+          },
+          "venus": {
+            "alt": 5.4976,
+            "az": 296.0576
+          },
+          "sun": {
+            "alt": -11.9671,
+            "az": 330.5702
+          },
+          "relative": {
+            "venus_dx": 0.3413,
+            "venus_dy": 0.5846,
+            "venus_angle_from_up": 30.28,
+            "sun_dx": 34.7271,
+            "sun_dy": -16.8801,
+            "sun_angle_from_up": 115.92,
+            "moon_illumination": 0.1119
+          }
+        },
+        {
+          "utc": "2026-06-17T21:30:00Z",
+          "local_time": "2026-06-17 23:30 CEST",
+          "moon": {
+            "alt": 3.4864,
+            "az": 297.4562
+          },
+          "venus": {
+            "alt": 4.0469,
+            "az": 297.8919
+          },
+          "sun": {
+            "alt": -12.7388,
+            "az": 332.7818
+          },
+          "relative": {
+            "venus_dx": 0.4349,
+            "venus_dy": 0.5605,
+            "venus_angle_from_up": 37.81,
+            "sun_dx": 35.2602,
+            "sun_dy": -16.2252,
+            "sun_angle_from_up": 114.71,
+            "moon_illumination": 0.1124
+          }
+        },
+        {
+          "utc": "2026-06-17T21:40:00Z",
+          "local_time": "2026-06-17 23:40 CEST",
+          "moon": {
+            "alt": 2.0821,
+            "az": 299.2124
+          },
+          "venus": {
+            "alt": 2.6207,
+            "az": 299.7422
+          },
+          "sun": {
+            "alt": -13.4543,
+            "az": 335.0197
+          },
+          "relative": {
+            "venus_dx": 0.5294,
+            "venus_dy": 0.5386,
+            "venus_angle_from_up": 44.51,
+            "sun_dx": 35.7836,
+            "sun_dy": -15.5364,
+            "sun_angle_from_up": 113.47,
+            "moon_illumination": 0.1129
+          }
+        },
+        {
+          "utc": "2026-06-17T21:50:00Z",
+          "local_time": "2026-06-17 23:50 CEST",
+          "moon": {
+            "alt": 0.7016,
+            "az": 300.9853
+          },
+          "venus": {
+            "alt": 1.2207,
+            "az": 301.6102
+          },
+          "sun": {
+            "alt": -14.1118,
+            "az": 337.2826
+          },
+          "relative": {
+            "venus_dx": 0.6249,
+            "venus_dy": 0.519,
+            "venus_angle_from_up": 50.29,
+            "sun_dx": 36.2946,
+            "sun_dy": -14.8135,
+            "sun_angle_from_up": 112.2,
+            "moon_illumination": 0.1135
+          }
+        },
+        {
+          "utc": "2026-06-17T22:00:00Z",
+          "local_time": "2026-06-18 00:00 CEST",
+          "moon": {
+            "alt": -0.6536,
+            "az": 302.7766
+          },
+          "venus": {
+            "alt": -0.1515,
+            "az": 303.498
+          },
+          "sun": {
+            "alt": -14.7098,
+            "az": 339.5693
+          },
+          "relative": {
+            "venus_dx": 0.7214,
+            "venus_dy": 0.5021,
+            "venus_angle_from_up": 55.16,
+            "sun_dx": 36.7904,
+            "sun_dy": -14.0563,
+            "sun_angle_from_up": 110.91,
+            "moon_illumination": 0.114
+          }
+        },
+        {
+          "utc": "2026-06-17T22:10:00Z",
+          "local_time": "2026-06-18 00:10 CEST",
+          "moon": {
+            "alt": -1.982,
+            "az": 304.5878
+          },
+          "venus": {
+            "alt": -1.4939,
+            "az": 305.4072
+          },
+          "sun": {
+            "alt": -15.2467,
+            "az": 341.8781
+          },
+          "relative": {
+            "venus_dx": 0.8188,
+            "venus_dy": 0.4881,
+            "venus_angle_from_up": 59.2,
+            "sun_dx": 37.2679,
+            "sun_dy": -13.2647,
+            "sun_angle_from_up": 109.59,
+            "moon_illumination": 0.1145
+          }
+        },
+        {
+          "utc": "2026-06-17T22:20:00Z",
+          "local_time": "2026-06-18 00:20 CEST",
+          "moon": {
+            "alt": -3.282,
+            "az": 306.4207
+          },
+          "venus": {
+            "alt": -2.8048,
+            "az": 307.3393
+          },
+          "sun": {
+            "alt": -15.721,
+            "az": 344.2071
+          },
+          "relative": {
+            "venus_dx": 0.9172,
+            "venus_dy": 0.4773,
+            "venus_angle_from_up": 62.51,
+            "sun_dx": 37.7245,
+            "sun_dy": -12.439,
+            "sun_angle_from_up": 108.25,
+            "moon_illumination": 0.115
+          }
+        },
+        {
+          "utc": "2026-06-17T22:30:00Z",
+          "local_time": "2026-06-18 00:30 CEST",
+          "moon": {
+            "alt": -4.552,
+            "az": 308.2764
+          },
+          "venus": {
+            "alt": -4.0822,
+            "az": 309.296
+          },
+          "sun": {
+            "alt": -16.1314,
+            "az": 346.5542
+          },
+          "relative": {
+            "venus_dx": 1.0163,
+            "venus_dy": 0.4699,
+            "venus_angle_from_up": 65.19,
+            "sun_dx": 38.1571,
+            "sun_dy": -11.5794,
+            "sun_angle_from_up": 106.88,
+            "moon_illumination": 0.1155
+          }
+        },
+        {
+          "utc": "2026-06-17T22:40:00Z",
+          "local_time": "2026-06-18 00:40 CEST",
+          "moon": {
+            "alt": -5.7904,
+            "az": 310.1565
+          },
+          "venus": {
+            "alt": -5.3242,
+            "az": 311.2785
+          },
+          "sun": {
+            "alt": -16.4768,
+            "az": 348.9171
+          },
+          "relative": {
+            "venus_dx": 1.1163,
+            "venus_dy": 0.4662,
+            "venus_angle_from_up": 67.33,
+            "sun_dx": 38.5629,
+            "sun_dy": -10.6864,
+            "sun_angle_from_up": 105.49,
+            "moon_illumination": 0.1161
+          }
+        },
+        {
+          "utc": "2026-06-17T22:50:00Z",
+          "local_time": "2026-06-18 00:50 CEST",
+          "moon": {
+            "alt": -6.9955,
+            "az": 312.062
+          },
+          "venus": {
+            "alt": -6.5289,
+            "az": 313.2881
+          },
+          "sun": {
+            "alt": -16.7562,
+            "az": 351.2933
+          },
+          "relative": {
+            "venus_dx": 1.217,
+            "venus_dy": 0.4666,
+            "venus_angle_from_up": 69.02,
+            "sun_dx": 38.9392,
+            "sun_dy": -9.7608,
+            "sun_angle_from_up": 104.07,
+            "moon_illumination": 0.1166
+          }
+        },
+        {
+          "utc": "2026-06-17T23:00:00Z",
+          "local_time": "2026-06-18 01:00 CEST",
+          "moon": {
+            "alt": -8.1654,
+            "az": 313.9942
+          },
+          "venus": {
+            "alt": -7.6942,
+            "az": 315.3259
+          },
+          "sun": {
+            "alt": -16.9688,
+            "az": 353.6801
+          },
+          "relative": {
+            "venus_dx": 1.3182,
+            "venus_dy": 0.4712,
+            "venus_angle_from_up": 70.33,
+            "sun_dx": 39.2836,
+            "sun_dy": -8.8033,
+            "sun_angle_from_up": 102.63,
+            "moon_illumination": 0.1171
+          }
+        },
+        {
+          "utc": "2026-06-17T23:10:00Z",
+          "local_time": "2026-06-18 01:10 CEST",
+          "moon": {
+            "alt": -9.2986,
+            "az": 315.954
+          },
+          "venus": {
+            "alt": -8.8181,
+            "az": 317.3928
+          },
+          "sun": {
+            "alt": -17.1139,
+            "az": 356.0747
+          },
+          "relative": {
+            "venus_dx": 1.4199,
+            "venus_dy": 0.4804,
+            "venus_angle_from_up": 71.31,
+            "sun_dx": 39.5935,
+            "sun_dy": -7.8153,
+            "sun_angle_from_up": 101.17,
+            "moon_illumination": 0.1177
+          }
+        },
+        {
+          "utc": "2026-06-17T23:20:00Z",
+          "local_time": "2026-06-18 01:20 CEST",
+          "moon": {
+            "alt": -10.3931,
+            "az": 317.9422
+          },
+          "venus": {
+            "alt": -9.8986,
+            "az": 319.4895
+          },
+          "sun": {
+            "alt": -17.191,
+            "az": 358.4741
+          },
+          "relative": {
+            "venus_dx": 1.5219,
+            "venus_dy": 0.4945,
+            "venus_angle_from_up": 72.0,
+            "sun_dx": 39.8669,
+            "sun_dy": -6.798,
+            "sun_angle_from_up": 99.68,
+            "moon_illumination": 0.1182
+          }
+        },
+        {
+          "utc": "2026-06-17T23:30:00Z",
+          "local_time": "2026-06-18 01:30 CEST",
+          "moon": {
+            "alt": -11.4471,
+            "az": 319.9595
+          },
+          "venus": {
+            "alt": -10.9335,
+            "az": 321.6165
+          },
+          "sun": {
+            "alt": -17.2001,
+            "az": 0.8754
+          },
+          "relative": {
+            "venus_dx": 1.624,
+            "venus_dy": 0.5136,
+            "venus_angle_from_up": 72.45,
+            "sun_dx": 40.102,
+            "sun_dy": -5.753,
+            "sun_angle_from_up": 98.16,
+            "moon_illumination": 0.1187
+          }
+        },
+        {
+          "utc": "2026-06-17T23:40:00Z",
+          "local_time": "2026-06-18 01:40 CEST",
+          "moon": {
+            "alt": -12.4589,
+            "az": 322.0065
+          },
+          "venus": {
+            "alt": -11.9208,
+            "az": 323.7741
+          },
+          "sun": {
+            "alt": -17.141,
+            "az": 3.2757
+          },
+          "relative": {
+            "venus_dx": 1.726,
+            "venus_dy": 0.5381,
+            "venus_angle_from_up": 72.68,
+            "sun_dx": 40.2974,
+            "sun_dy": -4.6821,
+            "sun_angle_from_up": 96.63,
+            "moon_illumination": 0.1192
+          }
+        },
+        {
+          "utc": "2026-06-17T23:50:00Z",
+          "local_time": "2026-06-18 01:50 CEST",
+          "moon": {
+            "alt": -13.4266,
+            "az": 324.0834
+          },
+          "venus": {
+            "alt": -12.8583,
+            "az": 325.9625
+          },
+          "sun": {
+            "alt": -17.014,
+            "az": 5.6718
+          },
+          "relative": {
+            "venus_dx": 1.8278,
+            "venus_dy": 0.5682,
+            "venus_angle_from_up": 72.73,
+            "sun_dx": 40.4517,
+            "sun_dy": -3.5874,
+            "sun_angle_from_up": 95.07,
+            "moon_illumination": 0.1198
+          }
+        },
+        {
+          "utc": "2026-06-18T00:00:00Z",
+          "local_time": "2026-06-18 02:00 CEST",
+          "moon": {
+            "alt": -14.3483,
+            "az": 326.1904
+          },
+          "venus": {
+            "alt": -13.7441,
+            "az": 328.1815
+          },
+          "sun": {
+            "alt": -16.8194,
+            "az": 8.0609
+          },
+          "relative": {
+            "venus_dx": 1.929,
+            "venus_dy": 0.6042,
+            "venus_angle_from_up": 72.61,
+            "sun_dx": 40.5645,
+            "sun_dy": -2.4711,
+            "sun_angle_from_up": 93.49,
+            "moon_illumination": 0.1203
+          }
+        },
+        {
+          "utc": "2026-06-18T00:10:00Z",
+          "local_time": "2026-06-18 02:10 CEST",
+          "moon": {
+            "alt": -15.2221,
+            "az": 328.3274
+          },
+          "venus": {
+            "alt": -14.576,
+            "az": 330.4306
+          },
+          "sun": {
+            "alt": -16.5577,
+            "az": 10.4402
+          },
+          "relative": {
+            "venus_dx": 2.0294,
+            "venus_dy": 0.6461,
+            "venus_angle_from_up": 72.34,
+            "sun_dx": 40.6352,
+            "sun_dy": -1.3356,
+            "sun_angle_from_up": 91.88,
+            "moon_illumination": 0.1208
+          }
+        },
+        {
+          "utc": "2026-06-18T00:20:00Z",
+          "local_time": "2026-06-18 02:20 CEST",
+          "moon": {
+            "alt": -16.0463,
+            "az": 330.4942
+          },
+          "venus": {
+            "alt": -15.352,
+            "az": 332.7092
+          },
+          "sun": {
+            "alt": -16.2298,
+            "az": 12.8068
+          },
+          "relative": {
+            "venus_dx": 2.1287,
+            "venus_dy": 0.6943,
+            "venus_angle_from_up": 71.94,
+            "sun_dx": 40.6641,
+            "sun_dy": -0.1834,
+            "sun_angle_from_up": 90.26,
+            "moon_illumination": 0.1214
+          }
+        },
+        {
+          "utc": "2026-06-18T00:30:00Z",
+          "local_time": "2026-06-18 02:30 CEST",
+          "moon": {
+            "alt": -16.8191,
+            "az": 332.6901
+          },
+          "venus": {
+            "alt": -16.0702,
+            "az": 335.0163
+          },
+          "sun": {
+            "alt": -15.8366,
+            "az": 15.1584
+          },
+          "relative": {
+            "venus_dx": 2.2267,
+            "venus_dy": 0.7488,
+            "venus_angle_from_up": 71.41,
+            "sun_dx": 40.6516,
+            "sun_dy": 0.9825,
+            "sun_angle_from_up": 88.62,
+            "moon_illumination": 0.1219
+          }
+        },
+        {
+          "utc": "2026-06-18T00:40:00Z",
+          "local_time": "2026-06-18 02:40 CEST",
+          "moon": {
+            "alt": -17.5386,
+            "az": 334.9144
+          },
+          "venus": {
+            "alt": -16.7288,
+            "az": 337.3506
+          },
+          "sun": {
+            "alt": -15.3791,
+            "az": 17.4924
+          },
+          "relative": {
+            "venus_dx": 2.3229,
+            "venus_dy": 0.8098,
+            "venus_angle_from_up": 70.78,
+            "sun_dx": 40.5987,
+            "sun_dy": 2.1595,
+            "sun_angle_from_up": 86.96,
+            "moon_illumination": 0.1224
+          }
+        },
+        {
+          "utc": "2026-06-18T00:50:00Z",
+          "local_time": "2026-06-18 02:50 CEST",
+          "moon": {
+            "alt": -18.2033,
+            "az": 337.166
+          },
+          "venus": {
+            "alt": -17.3259,
+            "az": 339.7105
+          },
+          "sun": {
+            "alt": -14.8588,
+            "az": 19.8067
+          },
+          "relative": {
+            "venus_dx": 2.4172,
+            "venus_dy": 0.8774,
+            "venus_angle_from_up": 70.05,
+            "sun_dx": 40.5066,
+            "sun_dy": 3.3445,
+            "sun_angle_from_up": 85.28,
+            "moon_illumination": 0.123
+          }
+        },
+        {
+          "utc": "2026-06-18T01:00:00Z",
+          "local_time": "2026-06-18 03:00 CEST",
+          "moon": {
+            "alt": -18.8114,
+            "az": 339.4437
+          },
+          "venus": {
+            "alt": -17.8599,
+            "az": 342.0944
+          },
+          "sun": {
+            "alt": -14.2769,
+            "az": 22.0993
+          },
+          "relative": {
+            "venus_dx": 2.5091,
+            "venus_dy": 0.9516,
+            "venus_angle_from_up": 69.23,
+            "sun_dx": 40.3772,
+            "sun_dy": 4.5345,
+            "sun_angle_from_up": 83.59,
+            "moon_illumination": 0.1235
+          }
+        },
+        {
+          "utc": "2026-06-18T01:10:00Z",
+          "local_time": "2026-06-18 03:10 CEST",
+          "moon": {
+            "alt": -19.3615,
+            "az": 341.7458
+          },
+          "venus": {
+            "alt": -18.3292,
+            "az": 344.4999
+          },
+          "sun": {
+            "alt": -13.635,
+            "az": 24.3687
+          },
+          "relative": {
+            "venus_dx": 2.5983,
+            "venus_dy": 1.0323,
+            "venus_angle_from_up": 68.33,
+            "sun_dx": 40.2124,
+            "sun_dy": 5.7265,
+            "sun_angle_from_up": 81.9,
+            "moon_illumination": 0.1241
+          }
+        },
+        {
+          "utc": "2026-06-18T01:20:00Z",
+          "local_time": "2026-06-18 03:20 CEST",
+          "moon": {
+            "alt": -19.8521,
+            "az": 344.0706
+          },
+          "venus": {
+            "alt": -18.7325,
+            "az": 346.9248
+          },
+          "sun": {
+            "alt": -12.9348,
+            "az": 26.6133
+          },
+          "relative": {
+            "venus_dx": 2.6846,
+            "venus_dy": 1.1196,
+            "venus_angle_from_up": 67.36,
+            "sun_dx": 40.0145,
+            "sun_dy": 6.9173,
+            "sun_angle_from_up": 80.19,
+            "moon_illumination": 0.1246
+          }
+        },
+        {
+          "utc": "2026-06-18T01:30:00Z",
+          "local_time": "2026-06-18 03:30 CEST",
+          "moon": {
+            "alt": -20.2818,
+            "az": 346.416
+          },
+          "venus": {
+            "alt": -19.0685,
+            "az": 349.3665
+          },
+          "sun": {
+            "alt": -12.1779,
+            "az": 28.8319
+          },
+          "relative": {
+            "venus_dx": 2.7676,
+            "venus_dy": 1.2133,
+            "venus_angle_from_up": 66.33,
+            "sun_dx": 39.7861,
+            "sun_dy": 8.1039,
+            "sun_angle_from_up": 78.49,
+            "moon_illumination": 0.1251
+          }
+        },
+        {
+          "utc": "2026-06-18T01:40:00Z",
+          "local_time": "2026-06-18 03:40 CEST",
+          "moon": {
+            "alt": -20.6496,
+            "az": 348.7796
+          },
+          "venus": {
+            "alt": -19.3363,
+            "az": 351.822
+          },
+          "sun": {
+            "alt": -11.3662,
+            "az": 31.0236
+          },
+          "relative": {
+            "venus_dx": 2.8469,
+            "venus_dy": 1.3133,
+            "venus_angle_from_up": 65.24,
+            "sun_dx": 39.5299,
+            "sun_dy": 9.2834,
+            "sun_angle_from_up": 76.78,
+            "moon_illumination": 0.1257
+          }
+        },
+        {
+          "utc": "2026-06-18T01:50:00Z",
+          "local_time": "2026-06-18 03:50 CEST",
+          "moon": {
+            "alt": -20.9543,
+            "az": 351.1591
+          },
+          "venus": {
+            "alt": -19.5349,
+            "az": 354.2885
+          },
+          "sun": {
+            "alt": -10.5014,
+            "az": 33.1876
+          },
+          "relative": {
+            "venus_dx": 2.9224,
+            "venus_dy": 1.4194,
+            "venus_angle_from_up": 64.09,
+            "sun_dx": 39.249,
+            "sun_dy": 10.4529,
+            "sun_angle_from_up": 75.09,
+            "moon_illumination": 0.1262
+          }
+        },
+        {
+          "utc": "2026-06-18T02:00:00Z",
+          "local_time": "2026-06-18 04:00 CEST",
+          "moon": {
+            "alt": -21.1952,
+            "az": 353.5518
+          },
+          "venus": {
+            "alt": -19.6638,
+            "az": 356.7627
+          },
+          "sun": {
+            "alt": -9.5856,
+            "az": 35.3236
+          },
+          "relative": {
+            "venus_dx": 2.9937,
+            "venus_dy": 1.5314,
+            "venus_angle_from_up": 62.91,
+            "sun_dx": 38.9462,
+            "sun_dy": 11.6095,
+            "sun_angle_from_up": 73.4,
+            "moon_illumination": 0.1268
+          }
+        }
+      ]
+    },
+    {
+      "id": "jerico",
+      "name": "Jeric\u00f3, Colombia",
+      "lat": 5.79146,
+      "lon": -75.78621,
+      "timezone": "America/Bogota",
+      "samples": [
+        {
+          "utc": "2026-06-17T18:00:00Z",
+          "local_time": "2026-06-17 13:00 -05",
+          "moon": {
+            "alt": 59.4866,
+            "az": 55.453
+          },
+          "venus": {
+            "alt": 59.2027,
+            "az": 57.8169
+          },
+          "sun": {
+            "alt": 67.8479,
+            "az": 324.0251
+          },
+          "relative": {
+            "venus_dx": 1.2002,
+            "venus_dy": -0.2839,
+            "venus_angle_from_up": 103.31,
+            "sun_dx": -46.4216,
+            "sun_dy": 8.3613,
+            "sun_angle_from_up": -79.79,
+            "moon_illumination": 0.1017
+          }
+        },
+        {
+          "utc": "2026-06-17T18:10:00Z",
+          "local_time": "2026-06-17 13:10 -05",
+          "moon": {
+            "alt": 61.4757,
+            "az": 53.2406
+          },
+          "venus": {
+            "alt": 61.2831,
+            "az": 55.6882
+          },
+          "sun": {
+            "alt": 66.3097,
+            "az": 319.6513
+          },
+          "relative": {
+            "venus_dx": 1.1688,
+            "venus_dy": -0.1925,
+            "venus_angle_from_up": 99.35,
+            "sun_dx": -44.6919,
+            "sun_dy": 4.834,
+            "sun_angle_from_up": -83.83,
+            "moon_illumination": 0.1022
+          }
+        },
+        {
+          "utc": "2026-06-17T18:20:00Z",
+          "local_time": "2026-06-17 13:20 -05",
+          "moon": {
+            "alt": 63.4061,
+            "az": 50.6613
+          },
+          "venus": {
+            "alt": 63.307,
+            "az": 53.1904
+          },
+          "sun": {
+            "alt": 64.6366,
+            "az": 315.8673
+          },
+          "relative": {
+            "venus_dx": 1.1322,
+            "venus_dy": -0.099,
+            "venus_angle_from_up": 95.0,
+            "sun_dx": -42.4359,
+            "sun_dy": 1.2305,
+            "sun_angle_from_up": -88.34,
+            "moon_illumination": 0.1027
+          }
+        },
+        {
+          "utc": "2026-06-17T18:30:00Z",
+          "local_time": "2026-06-17 13:30 -05",
+          "moon": {
+            "alt": 65.2634,
+            "az": 47.6452
+          },
+          "venus": {
+            "alt": 65.2604,
+            "az": 50.2479
+          },
+          "sun": {
+            "alt": 62.8536,
+            "az": 312.6015
+          },
+          "relative": {
+            "venus_dx": 1.0891,
+            "venus_dy": -0.0031,
+            "venus_angle_from_up": 90.16,
+            "sun_dx": -39.7707,
+            "sun_dy": -2.4099,
+            "sun_angle_from_up": -93.47,
+            "moon_illumination": 0.1032
+          }
+        },
+        {
+          "utc": "2026-06-17T18:40:00Z",
+          "local_time": "2026-06-17 13:40 -05",
+          "moon": {
+            "alt": 67.0295,
+            "az": 44.1106
+          },
+          "venus": {
+            "alt": 67.1247,
+            "az": 46.7701
+          },
+          "sun": {
+            "alt": 60.9813,
+            "az": 309.7835
+          },
+          "relative": {
+            "venus_dx": 1.0379,
+            "venus_dy": 0.0952,
+            "venus_angle_from_up": 84.76,
+            "sun_dx": -36.8119,
+            "sun_dy": -6.0482,
+            "sun_angle_from_up": -99.33,
+            "moon_illumination": 0.1037
+          }
+        },
+        {
+          "utc": "2026-06-17T18:50:00Z",
+          "local_time": "2026-06-17 13:50 -05",
+          "moon": {
+            "alt": 68.6809,
+            "az": 39.9663
+          },
+          "venus": {
+            "alt": 68.8763,
+            "az": 42.652
+          },
+          "sun": {
+            "alt": 59.036,
+            "az": 307.349
+          },
+          "relative": {
+            "venus_dx": 0.9764,
+            "venus_dy": 0.1954,
+            "venus_angle_from_up": 78.68,
+            "sun_dx": -33.6721,
+            "sun_dy": -9.6449,
+            "sun_angle_from_up": -105.98,
+            "moon_illumination": 0.1042
+          }
+        },
+        {
+          "utc": "2026-06-17T19:00:00Z",
+          "local_time": "2026-06-17 14:00 -05",
+          "moon": {
+            "alt": 70.1884,
+            "az": 35.1179
+          },
+          "venus": {
+            "alt": 70.4846,
+            "az": 37.7793
+          },
+          "sun": {
+            "alt": 57.031,
+            "az": 305.242
+          },
+          "relative": {
+            "venus_dx": 0.902,
+            "venus_dy": 0.2962,
+            "venus_angle_from_up": 71.82,
+            "sun_dx": -30.4615,
+            "sun_dy": -13.1575,
+            "sun_angle_from_up": -113.36,
+            "moon_illumination": 0.1048
+          }
+        },
+        {
+          "utc": "2026-06-17T19:10:00Z",
+          "local_time": "2026-06-17 14:10 -05",
+          "moon": {
+            "alt": 71.5162,
+            "az": 29.4836
+          },
+          "venus": {
+            "alt": 71.911,
+            "az": 32.0444
+          },
+          "sun": {
+            "alt": 54.9767,
+            "az": 303.4145
+          },
+          "relative": {
+            "venus_dx": 0.8119,
+            "venus_dy": 0.3947,
+            "venus_angle_from_up": 64.07,
+            "sun_dx": -27.287,
+            "sun_dy": -16.5396,
+            "sun_angle_from_up": -121.22,
+            "moon_illumination": 0.1053
+          }
+        },
+        {
+          "utc": "2026-06-17T19:20:00Z",
+          "local_time": "2026-06-17 14:20 -05",
+          "moon": {
+            "alt": 72.6226,
+            "az": 23.0205
+          },
+          "venus": {
+            "alt": 73.1092,
+            "az": 25.3756
+          },
+          "sun": {
+            "alt": 52.8816,
+            "az": 301.8262
+          },
+          "relative": {
+            "venus_dx": 0.7034,
+            "venus_dy": 0.4865,
+            "venus_angle_from_up": 55.33,
+            "sun_dx": -24.2498,
+            "sun_dy": -19.741,
+            "sun_angle_from_up": -129.15,
+            "moon_illumination": 0.1058
+          }
+        },
+        {
+          "utc": "2026-06-17T19:30:00Z",
+          "local_time": "2026-06-17 14:30 -05",
+          "moon": {
+            "alt": 73.4626,
+            "az": 15.7618
+          },
+          "venus": {
+            "alt": 74.0276,
+            "az": 17.7851
+          },
+          "sun": {
+            "alt": 50.7525,
+            "az": 300.4433
+          },
+          "relative": {
+            "venus_dx": 0.5759,
+            "venus_dy": 0.565,
+            "venus_angle_from_up": 45.55,
+            "sun_dx": -21.4388,
+            "sun_dy": -22.7101,
+            "sun_angle_from_up": -136.65,
+            "moon_illumination": 0.1063
+          }
+        },
+        {
+          "utc": "2026-06-17T19:40:00Z",
+          "local_time": "2026-06-17 14:40 -05",
+          "moon": {
+            "alt": 73.9937,
+            "az": 7.8546
+          },
+          "venus": {
+            "alt": 74.616,
+            "az": 9.4215
+          },
+          "sun": {
+            "alt": 48.595,
+            "az": 299.2377
+          },
+          "relative": {
+            "venus_dx": 0.4321,
+            "venus_dy": 0.6223,
+            "venus_angle_from_up": 34.77,
+            "sun_dx": -18.9206,
+            "sun_dy": -25.3987,
+            "sun_angle_from_up": -143.32,
+            "moon_illumination": 0.1068
+          }
+        },
+        {
+          "utc": "2026-06-17T19:50:00Z",
+          "local_time": "2026-06-17 14:50 -05",
+          "moon": {
+            "alt": 74.1846,
+            "az": 359.5706
+          },
+          "venus": {
+            "alt": 74.8357,
+            "az": 0.5953
+          },
+          "sun": {
+            "alt": 46.4135,
+            "az": 298.1859
+          },
+          "relative": {
+            "venus_dx": 0.2793,
+            "venus_dy": 0.6511,
+            "venus_angle_from_up": 23.21,
+            "sun_dx": -16.7297,
+            "sun_dy": -27.771,
+            "sun_angle_from_up": -148.93,
+            "moon_illumination": 0.1073
+          }
+        },
+        {
+          "utc": "2026-06-17T20:00:00Z",
+          "local_time": "2026-06-17 15:00 -05",
+          "moon": {
+            "alt": 74.0227,
+            "az": 351.2689
+          },
+          "venus": {
+            "alt": 74.6709,
+            "az": 351.7362
+          },
+          "sun": {
+            "alt": 44.2119,
+            "az": 297.2684
+          },
+          "relative": {
+            "venus_dx": 0.1286,
+            "venus_dy": 0.6482,
+            "venus_angle_from_up": 11.22,
+            "sun_dx": -14.864,
+            "sun_dy": -29.8108,
+            "sun_angle_from_up": -153.5,
+            "moon_illumination": 0.1078
+          }
+        },
+        {
+          "utc": "2026-06-17T20:10:00Z",
+          "local_time": "2026-06-17 15:10 -05",
+          "moon": {
+            "alt": 73.5183,
+            "az": 343.313
+          },
+          "venus": {
+            "alt": 74.1336,
+            "az": 343.283
+          },
+          "sun": {
+            "alt": 41.9933,
+            "az": 296.4688
+          },
+          "relative": {
+            "venus_dx": -0.0085,
+            "venus_dy": 0.6153,
+            "venus_angle_from_up": -0.79,
+            "sun_dx": -13.2901,
+            "sun_dy": -31.5251,
+            "sun_angle_from_up": -157.14,
+            "moon_illumination": 0.1083
+          }
+        },
+        {
+          "utc": "2026-06-17T20:20:00Z",
+          "local_time": "2026-06-17 15:20 -05",
+          "moon": {
+            "alt": 72.7013,
+            "az": 335.9851
+          },
+          "venus": {
+            "alt": 73.2597,
+            "az": 335.5678
+          },
+          "sun": {
+            "alt": 39.7602,
+            "az": 295.7735
+          },
+          "relative": {
+            "venus_dx": -0.1241,
+            "venus_dy": 0.5584,
+            "venus_angle_from_up": -12.53,
+            "sun_dx": -11.9571,
+            "sun_dy": -32.9412,
+            "sun_angle_from_up": -160.05,
+            "moon_illumination": 0.1088
+          }
+        },
+        {
+          "utc": "2026-06-17T20:30:00Z",
+          "local_time": "2026-06-17 15:30 -05",
+          "moon": {
+            "alt": 71.6133,
+            "az": 329.4436
+          },
+          "venus": {
+            "alt": 72.0984,
+            "az": 328.7624
+          },
+          "sun": {
+            "alt": 37.5148,
+            "az": 295.1708
+          },
+          "relative": {
+            "venus_dx": -0.2149,
+            "venus_dy": 0.4851,
+            "venus_angle_from_up": -23.89,
+            "sun_dx": -10.8106,
+            "sun_dy": -34.0985,
+            "sun_angle_from_up": -162.41,
+            "moon_illumination": 0.1093
+          }
+        },
+        {
+          "utc": "2026-06-17T20:40:00Z",
+          "local_time": "2026-06-17 15:40 -05",
+          "moon": {
+            "alt": 70.2991,
+            "az": 323.7309
+          },
+          "venus": {
+            "alt": 70.7016,
+            "az": 322.8955
+          },
+          "sun": {
+            "alt": 35.2591,
+            "az": 294.6512
+          },
+          "relative": {
+            "venus_dx": -0.2816,
+            "venus_dy": 0.4025,
+            "venus_angle_from_up": -34.98,
+            "sun_dx": -9.803,
+            "sun_dy": -35.04,
+            "sun_angle_from_up": -164.37,
+            "moon_illumination": 0.1098
+          }
+        },
+        {
+          "utc": "2026-06-17T20:50:00Z",
+          "local_time": "2026-06-17 15:50 -05",
+          "moon": {
+            "alt": 68.801,
+            "az": 318.8092
+          },
+          "venus": {
+            "alt": 69.1168,
+            "az": 317.9044
+          },
+          "sun": {
+            "alt": 32.9947,
+            "az": 294.2065
+          },
+          "relative": {
+            "venus_dx": -0.3272,
+            "venus_dy": 0.3158,
+            "venus_angle_from_up": -46.02,
+            "sun_dx": -8.8966,
+            "sun_dy": -35.8063,
+            "sun_angle_from_up": -166.05,
+            "moon_illumination": 0.1104
+          }
+        },
+        {
+          "utc": "2026-06-17T21:00:00Z",
+          "local_time": "2026-06-17 16:00 -05",
+          "moon": {
+            "alt": 67.1552,
+            "az": 314.5989
+          },
+          "venus": {
+            "alt": 67.3835,
+            "az": 313.6841
+          },
+          "sun": {
+            "alt": 30.723,
+            "az": 293.8297
+          },
+          "relative": {
+            "venus_dx": -0.3552,
+            "venus_dy": 0.2283,
+            "venus_angle_from_up": -57.27,
+            "sun_dx": -8.0634,
+            "sun_dy": -36.4322,
+            "sun_angle_from_up": -167.52,
+            "moon_illumination": 0.1109
+          }
+        },
+        {
+          "utc": "2026-06-17T21:10:00Z",
+          "local_time": "2026-06-17 16:10 -05",
+          "moon": {
+            "alt": 65.3915,
+            "az": 311.0063
+          },
+          "venus": {
+            "alt": 65.5333,
+            "az": 310.1203
+          },
+          "sun": {
+            "alt": 28.4452,
+            "az": 293.5152
+          },
+          "relative": {
+            "venus_dx": -0.3689,
+            "venus_dy": 0.1419,
+            "venus_angle_from_up": -68.96,
+            "sun_dx": -7.2836,
+            "sun_dy": -36.9462,
+            "sun_angle_from_up": -168.85,
+            "moon_illumination": 0.1114
+          }
+        },
+        {
+          "utc": "2026-06-17T21:20:00Z",
+          "local_time": "2026-06-17 16:20 -05",
+          "moon": {
+            "alt": 63.5336,
+            "az": 307.9392
+          },
+          "venus": {
+            "alt": 63.5912,
+            "az": 307.106
+          },
+          "sun": {
+            "alt": 26.1625,
+            "az": 293.258
+          },
+          "relative": {
+            "venus_dx": -0.3713,
+            "venus_dy": 0.0575,
+            "venus_angle_from_up": -81.19,
+            "sun_dx": -6.543,
+            "sun_dy": -37.3711,
+            "sun_angle_from_up": -170.07,
+            "moon_illumination": 0.1119
+          }
+        },
+        {
+          "utc": "2026-06-17T21:30:00Z",
+          "local_time": "2026-06-17 16:30 -05",
+          "moon": {
+            "alt": 61.6004,
+            "az": 305.315
+          },
+          "venus": {
+            "alt": 61.576,
+            "az": 304.5485
+          },
+          "sun": {
+            "alt": 23.8759,
+            "az": 293.0539
+          },
+          "relative": {
+            "venus_dx": -0.3646,
+            "venus_dy": -0.0244,
+            "venus_angle_from_up": -93.84,
+            "sun_dx": -5.8316,
+            "sun_dy": -37.7246,
+            "sun_angle_from_up": -171.21,
+            "moon_illumination": 0.1124
+          }
+        },
+        {
+          "utc": "2026-06-17T21:40:00Z",
+          "local_time": "2026-06-17 16:40 -05",
+          "moon": {
+            "alt": 59.6065,
+            "az": 303.0627
+          },
+          "venus": {
+            "alt": 59.5025,
+            "az": 302.3701
+          },
+          "sun": {
+            "alt": 21.5862,
+            "az": 292.8995
+          },
+          "relative": {
+            "venus_dx": -0.3504,
+            "venus_dy": -0.104,
+            "venus_angle_from_up": -106.54,
+            "sun_dx": -5.1419,
+            "sun_dy": -38.0203,
+            "sun_angle_from_up": -172.3,
+            "moon_illumination": 0.1129
+          }
+        },
+        {
+          "utc": "2026-06-17T21:50:00Z",
+          "local_time": "2026-06-17 16:50 -05",
+          "moon": {
+            "alt": 57.5633,
+            "az": 301.1229
+          },
+          "venus": {
+            "alt": 57.382,
+            "az": 300.5072
+          },
+          "sun": {
+            "alt": 19.2943,
+            "az": 292.792
+          },
+          "relative": {
+            "venus_dx": -0.3302,
+            "venus_dy": -0.1814,
+            "venus_angle_from_up": -118.78,
+            "sun_dx": -4.4684,
+            "sun_dy": -38.269,
+            "sun_angle_from_up": -173.34,
+            "moon_illumination": 0.1135
+          }
+        },
+        {
+          "utc": "2026-06-17T22:00:00Z",
+          "local_time": "2026-06-17 17:00 -05",
+          "moon": {
+            "alt": 55.48,
+            "az": 299.4464
+          },
+          "venus": {
+            "alt": 55.2232,
+            "az": 298.9083
+          },
+          "sun": {
+            "alt": 17.001,
+            "az": 292.729
+          },
+          "relative": {
+            "venus_dx": -0.305,
+            "venus_dy": -0.2567,
+            "venus_angle_from_up": -130.09,
+            "sun_dx": -3.8067,
+            "sun_dy": -38.479,
+            "sun_angle_from_up": -174.35,
+            "moon_illumination": 0.114
+          }
+        },
+        {
+          "utc": "2026-06-17T22:10:00Z",
+          "local_time": "2026-06-17 17:10 -05",
+          "moon": {
+            "alt": 53.3636,
+            "az": 297.993
+          },
+          "venus": {
+            "alt": 53.0333,
+            "az": 297.5313
+          },
+          "sun": {
+            "alt": 14.707,
+            "az": 292.7086
+          },
+          "relative": {
+            "venus_dx": -0.2755,
+            "venus_dy": -0.3303,
+            "venus_angle_from_up": -140.18,
+            "sun_dx": -3.1534,
+            "sun_dy": -38.6566,
+            "sun_angle_from_up": -175.34,
+            "moon_illumination": 0.1145
+          }
+        },
+        {
+          "utc": "2026-06-17T22:20:00Z",
+          "local_time": "2026-06-17 17:20 -05",
+          "moon": {
+            "alt": 51.22,
+            "az": 296.7294
+          },
+          "venus": {
+            "alt": 50.8175,
+            "az": 296.3426
+          },
+          "sun": {
+            "alt": 12.413,
+            "az": 292.7293
+          },
+          "relative": {
+            "venus_dx": -0.2423,
+            "venus_dy": -0.4025,
+            "venus_angle_from_up": -148.95,
+            "sun_dx": -2.5054,
+            "sun_dy": -38.807,
+            "sun_angle_from_up": -176.31,
+            "moon_illumination": 0.115
+          }
+        },
+        {
+          "utc": "2026-06-17T22:30:00Z",
+          "local_time": "2026-06-17 17:30 -05",
+          "moon": {
+            "alt": 49.0537,
+            "az": 295.6286
+          },
+          "venus": {
+            "alt": 48.5804,
+            "az": 295.3145
+          },
+          "sun": {
+            "alt": 10.1197,
+            "az": 292.79
+          },
+          "relative": {
+            "venus_dx": -0.2059,
+            "venus_dy": -0.4733,
+            "venus_angle_from_up": -156.49,
+            "sun_dx": -1.8603,
+            "sun_dy": -38.934,
+            "sun_angle_from_up": -177.26,
+            "moon_illumination": 0.1155
+          }
+        },
+        {
+          "utc": "2026-06-17T22:40:00Z",
+          "local_time": "2026-06-17 17:40 -05",
+          "moon": {
+            "alt": 46.8686,
+            "az": 294.6682
+          },
+          "venus": {
+            "alt": 46.3254,
+            "az": 294.4245
+          },
+          "sun": {
+            "alt": 7.8278,
+            "az": 292.89
+          },
+          "relative": {
+            "venus_dx": -0.1666,
+            "venus_dy": -0.5432,
+            "venus_angle_from_up": -162.95,
+            "sun_dx": -1.2157,
+            "sun_dy": -39.0408,
+            "sun_angle_from_up": -178.22,
+            "moon_illumination": 0.1161
+          }
+        },
+        {
+          "utc": "2026-06-17T22:50:00Z",
+          "local_time": "2026-06-17 17:50 -05",
+          "moon": {
+            "alt": 44.6677,
+            "az": 293.8296
+          },
+          "venus": {
+            "alt": 44.0555,
+            "az": 293.6543
+          },
+          "sun": {
+            "alt": 5.5379,
+            "az": 293.0287
+          },
+          "relative": {
+            "venus_dx": -0.1247,
+            "venus_dy": -0.6122,
+            "venus_angle_from_up": -168.49,
+            "sun_dx": -0.5696,
+            "sun_dy": -39.1298,
+            "sun_angle_from_up": -179.17,
+            "moon_illumination": 0.1166
+          }
+        },
+        {
+          "utc": "2026-06-17T23:00:00Z",
+          "local_time": "2026-06-17 18:00 -05",
+          "moon": {
+            "alt": 42.4536,
+            "az": 293.0975
+          },
+          "venus": {
+            "alt": 41.7731,
+            "az": 292.9886
+          },
+          "sun": {
+            "alt": 3.2507,
+            "az": 293.206
+          },
+          "relative": {
+            "venus_dx": -0.0803,
+            "venus_dy": -0.6806,
+            "venus_angle_from_up": -173.27,
+            "sun_dx": 0.0801,
+            "sun_dy": -39.203,
+            "sun_angle_from_up": 179.88,
+            "moon_illumination": 0.1171
+          }
+        },
+        {
+          "utc": "2026-06-17T23:10:00Z",
+          "local_time": "2026-06-17 18:10 -05",
+          "moon": {
+            "alt": 40.2285,
+            "az": 292.4592
+          },
+          "venus": {
+            "alt": 39.4801,
+            "az": 292.415
+          },
+          "sun": {
+            "alt": 0.9668,
+            "az": 293.4222
+          },
+          "relative": {
+            "venus_dx": -0.0337,
+            "venus_dy": -0.7484,
+            "venus_angle_from_up": -177.42,
+            "sun_dx": 0.7353,
+            "sun_dy": -39.2617,
+            "sun_angle_from_up": 178.93,
+            "moon_illumination": 0.1177
+          }
+        },
+        {
+          "utc": "2026-06-17T23:20:00Z",
+          "local_time": "2026-06-17 18:20 -05",
+          "moon": {
+            "alt": 37.9942,
+            "az": 291.9038
+          },
+          "venus": {
+            "alt": 37.1783,
+            "az": 291.9229
+          },
+          "sun": {
+            "alt": -1.313,
+            "az": 293.6776
+          },
+          "relative": {
+            "venus_dx": 0.015,
+            "venus_dy": -0.8159,
+            "venus_angle_from_up": 178.95,
+            "sun_dx": 1.3978,
+            "sun_dy": -39.3072,
+            "sun_angle_from_up": 177.96,
+            "moon_illumination": 0.1182
+          }
+        },
+        {
+          "utc": "2026-06-17T23:30:00Z",
+          "local_time": "2026-06-17 18:30 -05",
+          "moon": {
+            "alt": 35.7522,
+            "az": 291.4226
+          },
+          "venus": {
+            "alt": 34.869,
+            "az": 291.5037
+          },
+          "sun": {
+            "alt": -3.5879,
+            "az": 293.973
+          },
+          "relative": {
+            "venus_dx": 0.0658,
+            "venus_dy": -0.8832,
+            "venus_angle_from_up": 175.74,
+            "sun_dx": 2.0698,
+            "sun_dy": -39.3401,
+            "sun_angle_from_up": 176.99,
+            "moon_illumination": 0.1187
+          }
+        },
+        {
+          "utc": "2026-06-17T23:40:00Z",
+          "local_time": "2026-06-17 18:40 -05",
+          "moon": {
+            "alt": 33.5038,
+            "az": 291.0079
+          },
+          "venus": {
+            "alt": 32.5536,
+            "az": 291.1501
+          },
+          "sun": {
+            "alt": -5.8573,
+            "az": 294.3094
+          },
+          "relative": {
+            "venus_dx": 0.1186,
+            "venus_dy": -0.9502,
+            "venus_angle_from_up": 172.89,
+            "sun_dx": 2.753,
+            "sun_dy": -39.3612,
+            "sun_angle_from_up": 176.0,
+            "moon_illumination": 0.1192
+          }
+        },
+        {
+          "utc": "2026-06-17T23:50:00Z",
+          "local_time": "2026-06-17 18:50 -05",
+          "moon": {
+            "alt": 31.2503,
+            "az": 290.6533
+          },
+          "venus": {
+            "alt": 30.2331,
+            "az": 290.8561
+          },
+          "sun": {
+            "alt": -8.1203,
+            "az": 294.6882
+          },
+          "relative": {
+            "venus_dx": 0.1733,
+            "venus_dy": -1.0172,
+            "venus_angle_from_up": 170.33,
+            "sun_dx": 3.4495,
+            "sun_dy": -39.3706,
+            "sun_angle_from_up": 174.99,
+            "moon_illumination": 0.1198
+          }
+        },
+        {
+          "utc": "2026-06-18T00:00:00Z",
+          "local_time": "2026-06-17 19:00 -05",
+          "moon": {
+            "alt": 28.9926,
+            "az": 290.3535
+          },
+          "venus": {
+            "alt": 27.9084,
+            "az": 290.6165
+          },
+          "sun": {
+            "alt": -10.3761,
+            "az": 295.1111
+          },
+          "relative": {
+            "venus_dx": 0.23,
+            "venus_dy": -1.0842,
+            "venus_angle_from_up": 168.02,
+            "sun_dx": 4.1614,
+            "sun_dy": -39.3687,
+            "sun_angle_from_up": 173.97,
+            "moon_illumination": 0.1203
+          }
+        },
+        {
+          "utc": "2026-06-18T00:10:00Z",
+          "local_time": "2026-06-17 19:10 -05",
+          "moon": {
+            "alt": 26.7316,
+            "az": 290.104
+          },
+          "venus": {
+            "alt": 25.5805,
+            "az": 290.4272
+          },
+          "sun": {
+            "alt": -12.6236,
+            "az": 295.5801
+          },
+          "relative": {
+            "venus_dx": 0.2887,
+            "venus_dy": -1.1512,
+            "venus_angle_from_up": 165.92,
+            "sun_dx": 4.8909,
+            "sun_dy": -39.3552,
+            "sun_angle_from_up": 172.92,
+            "moon_illumination": 0.1208
+          }
+        },
+        {
+          "utc": "2026-06-18T00:20:00Z",
+          "local_time": "2026-06-17 19:20 -05",
+          "moon": {
+            "alt": 24.4681,
+            "az": 289.9008
+          },
+          "venus": {
+            "alt": 23.2499,
+            "az": 290.2845
+          },
+          "sun": {
+            "alt": -14.8618,
+            "az": 296.0976
+          },
+          "relative": {
+            "venus_dx": 0.3492,
+            "venus_dy": -1.2182,
+            "venus_angle_from_up": 164.0,
+            "sun_dx": 5.6403,
+            "sun_dy": -39.3299,
+            "sun_angle_from_up": 171.84,
+            "moon_illumination": 0.1214
+          }
+        },
+        {
+          "utc": "2026-06-18T00:30:00Z",
+          "local_time": "2026-06-17 19:30 -05",
+          "moon": {
+            "alt": 22.2029,
+            "az": 289.7409
+          },
+          "venus": {
+            "alt": 20.9176,
+            "az": 290.1856
+          },
+          "sun": {
+            "alt": -17.0897,
+            "az": 296.6664
+          },
+          "relative": {
+            "venus_dx": 0.4117,
+            "venus_dy": -1.2853,
+            "venus_angle_from_up": 162.24,
+            "sun_dx": 6.412,
+            "sun_dy": -39.2926,
+            "sun_angle_from_up": 170.73,
+            "moon_illumination": 0.1219
+          }
+        },
+        {
+          "utc": "2026-06-18T00:40:00Z",
+          "local_time": "2026-06-17 19:40 -05",
+          "moon": {
+            "alt": 19.9366,
+            "az": 289.6214
+          },
+          "venus": {
+            "alt": 18.584,
+            "az": 290.1279
+          },
+          "sun": {
+            "alt": -19.3059,
+            "az": 297.2897
+          },
+          "relative": {
+            "venus_dx": 0.4762,
+            "venus_dy": -1.3525,
+            "venus_angle_from_up": 160.6,
+            "sun_dx": 7.2088,
+            "sun_dy": -39.2425,
+            "sun_angle_from_up": 169.59,
+            "moon_illumination": 0.1224
+          }
+        },
+        {
+          "utc": "2026-06-18T00:50:00Z",
+          "local_time": "2026-06-17 19:50 -05",
+          "moon": {
+            "alt": 17.6697,
+            "az": 289.5401
+          },
+          "venus": {
+            "alt": 16.2499,
+            "az": 290.1097
+          },
+          "sun": {
+            "alt": -21.5092,
+            "az": 297.9713
+          },
+          "relative": {
+            "venus_dx": 0.5427,
+            "venus_dy": -1.4198,
+            "venus_angle_from_up": 159.08,
+            "sun_dx": 8.0334,
+            "sun_dy": -39.1789,
+            "sun_angle_from_up": 168.41,
+            "moon_illumination": 0.123
+          }
+        },
+        {
+          "utc": "2026-06-18T01:00:00Z",
+          "local_time": "2026-06-17 20:00 -05",
+          "moon": {
+            "alt": 15.4029,
+            "az": 289.4951
+          },
+          "venus": {
+            "alt": 13.9157,
+            "az": 290.1292
+          },
+          "sun": {
+            "alt": -23.6979,
+            "az": 298.7153
+          },
+          "relative": {
+            "venus_dx": 0.6113,
+            "venus_dy": -1.4872,
+            "venus_angle_from_up": 157.65,
+            "sun_dx": 8.889,
+            "sun_dy": -39.1008,
+            "sun_angle_from_up": 167.19,
+            "moon_illumination": 0.1235
+          }
+        },
+        {
+          "utc": "2026-06-18T01:10:00Z",
+          "local_time": "2026-06-17 20:10 -05",
+          "moon": {
+            "alt": 13.1366,
+            "az": 289.4851
+          },
+          "venus": {
+            "alt": 11.5821,
+            "az": 290.1854
+          },
+          "sun": {
+            "alt": -25.8705,
+            "az": 299.5266
+          },
+          "relative": {
+            "venus_dx": 0.682,
+            "venus_dy": -1.5545,
+            "venus_angle_from_up": 156.31,
+            "sun_dx": 9.7787,
+            "sun_dy": -39.0071,
+            "sun_angle_from_up": 165.93,
+            "moon_illumination": 0.1241
+          }
+        },
+        {
+          "utc": "2026-06-18T01:20:00Z",
+          "local_time": "2026-06-17 20:20 -05",
+          "moon": {
+            "alt": 10.8714,
+            "az": 289.5087
+          },
+          "venus": {
+            "alt": 9.2495,
+            "az": 290.2774
+          },
+          "sun": {
+            "alt": -28.0249,
+            "az": 300.4106
+          },
+          "relative": {
+            "venus_dx": 0.755,
+            "venus_dy": -1.6219,
+            "venus_angle_from_up": 155.04,
+            "sun_dx": 10.7062,
+            "sun_dy": -38.8963,
+            "sun_angle_from_up": 164.61,
+            "moon_illumination": 0.1246
+          }
+        },
+        {
+          "utc": "2026-06-18T01:30:00Z",
+          "local_time": "2026-06-17 20:30 -05",
+          "moon": {
+            "alt": 8.6078,
+            "az": 289.5651
+          },
+          "venus": {
+            "alt": 6.9186,
+            "az": 290.4048
+          },
+          "sun": {
+            "alt": -30.159,
+            "az": 301.3735
+          },
+          "relative": {
+            "venus_dx": 0.8302,
+            "venus_dy": -1.6892,
+            "venus_angle_from_up": 153.83,
+            "sun_dx": 11.6753,
+            "sun_dy": -38.7667,
+            "sun_angle_from_up": 163.24,
+            "moon_illumination": 0.1251
+          }
+        },
+        {
+          "utc": "2026-06-18T01:40:00Z",
+          "local_time": "2026-06-17 20:40 -05",
+          "moon": {
+            "alt": 6.3462,
+            "az": 289.6538
+          },
+          "venus": {
+            "alt": 4.5898,
+            "az": 290.5672
+          },
+          "sun": {
+            "alt": -32.2703,
+            "az": 302.4223
+          },
+          "relative": {
+            "venus_dx": 0.9078,
+            "venus_dy": -1.7563,
+            "venus_angle_from_up": 152.67,
+            "sun_dx": 12.6902,
+            "sun_dy": -38.6165,
+            "sun_angle_from_up": 161.81,
+            "moon_illumination": 0.1257
+          }
+        },
+        {
+          "utc": "2026-06-18T01:50:00Z",
+          "local_time": "2026-06-17 20:50 -05",
+          "moon": {
+            "alt": 4.087,
+            "az": 289.7743
+          },
+          "venus": {
+            "alt": 2.2638,
+            "az": 290.7647
+          },
+          "sun": {
+            "alt": -34.3562,
+            "az": 303.5648
+          },
+          "relative": {
+            "venus_dx": 0.9879,
+            "venus_dy": -1.8232,
+            "venus_angle_from_up": 151.55,
+            "sun_dx": 13.7554,
+            "sun_dy": -38.4432,
+            "sun_angle_from_up": 160.31,
+            "moon_illumination": 0.1262
+          }
+        },
+        {
+          "utc": "2026-06-18T02:00:00Z",
+          "local_time": "2026-06-17 21:00 -05",
+          "moon": {
+            "alt": 1.8308,
+            "az": 289.9266
+          },
+          "venus": {
+            "alt": -0.059,
+            "az": 290.9978
+          },
+          "sun": {
+            "alt": -36.4134,
+            "az": 304.8098
+          },
+          "relative": {
+            "venus_dx": 1.0706,
+            "venus_dy": -1.8897,
+            "venus_angle_from_up": 150.47,
+            "sun_dx": 14.8756,
+            "sun_dy": -38.2442,
+            "sun_angle_from_up": 158.75,
+            "moon_illumination": 0.1268
+          }
+        }
+      ]
+    }
+  ]
+}

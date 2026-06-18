@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Skyfield ephemeris (large binary, downloaded automatically)
+de421.bsp
+de440.bsp
+*.bsp
+
+# Editor
+.DS_Store
+*.swp
+*~

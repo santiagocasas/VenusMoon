@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Moon–Venus Orientation — 17 June 2026</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Moon &amp; Venus — 17 June 2026</h1>
+    <p class="subtitle">
+      Why does Venus appear <em>above</em> the Moon in Heidelberg but <em>below</em> it in Jericó?
+    </p>
+  </header>
+
+  <main>
+    <!-- Controls -->
+    <section class="controls">
+      <div class="control-group">
+        <label for="locA">Left panel</label>
+        <select id="locA"></select>
+      </div>
+
+      <div class="control-group">
+        <label for="locB">Right panel</label>
+        <select id="locB"></select>
+      </div>
+    </section>
+
+    <section class="slider-section">
+      <label for="timeSlider">Time</label>
+      <input type="range" id="timeSlider" min="0" max="48" value="6" step="1" />
+      <div id="timeInfo" class="time-info"></div>
+    </section>
+
+    <!-- Plotly figure -->
+    <div id="plot"></div>
+
+    <!-- Info cards below the plot -->
+    <section id="dataCards" class="data-cards"></section>
+  </main>
+
+  <footer>
+    <p>
+      Positions computed with
+      <a href="https://rhodesmill.org/skyfield/" target="_blank" rel="noopener">Skyfield</a>
+      + DE421 ephemeris.
+      All angles are topocentric apparent coordinates.
+    </p>
+  </footer>
+
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
+  <script src="app.js"></script>
+</body>
+</html>
